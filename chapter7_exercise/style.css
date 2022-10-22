@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #6c6b6b;
+}
+
+.main-visual {
+  width: 100%;
+  height: 400px;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+
+.main-visual-title {
+  padding-top: 20px;
+  margin-left: 20px;
+  font-size: 25px;
+}
+
+main {
+  width: 840px;
+  margin: 50px auto;
+}
+
+.main-item {
+  border-bottom: 1px solid #6c6b6b;
+}
+
+.WebCamp {
+  padding-bottom: 30px;
+}
+
+.WebCampPRO {
+  padding: 30px 0;
+}
+
+.WebCampWOMAN {
+  padding: 30px 0;
+}
+
+.WebCampCAREER {
+  padding: 30px 0;
+}
